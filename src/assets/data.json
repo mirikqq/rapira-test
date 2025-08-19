@@ -1,0 +1,24 @@
+[
+    {
+        "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "postDate": "9 апр",
+        "timeToRead": "2 мин",
+        "comments": [
+            {
+                "avatar": "https://random-image-pepebigotes.vercel.app/api/random-image",
+                "author": "Paul Do Rove",
+                "text": "БлаБла2",
+                "date": "9.04.2024 в 14:54"
+            }
+        ],
+        "title": "БлаБла",
+        "description": "БлаБлаБлаБлаБлаБлаБлаБла",
+        "text": "БлаБлаБлаБлаБлаБлаБлаБлаБлаБлаБлаБлаБлаБлаБлаБлаБлаБлаБлаБлаБлаБлаБлаБлаБлаБлаБлаБлаБлаБлаБлаБлаБлаБлаБлаБлаБлаБлаБлаБла",
+        "tags": [
+            {
+                "label": "Город",
+                "value": "city"
+            }
+        ]
+    }
+]
