@@ -1,6 +1,6 @@
 # Inistal
 
-```pnpm install``
+```pnpm install```
 
 # Run
 
